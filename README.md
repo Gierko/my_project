@@ -1,3 +1,2 @@
 # my_project
-
-C'est incroyable
+'ai réussi à faire clone, pull et je m'apprête à faire push".
